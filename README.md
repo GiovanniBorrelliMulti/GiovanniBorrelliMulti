@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovanniBorrelliMulti)](https://github.com/anuraghazra/github-readme-stats)
+[![GiovanniBorrelliMulti's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovanniBorrelliMulti)](https://github.com/anuraghazra/github-readme-stats)
 
 **GiovanniBorrelliMulti/GiovanniBorrelliMulti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
